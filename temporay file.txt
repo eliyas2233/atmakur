@@ -1,4 +1,5 @@
-public class SwitchExample {  
+public class SwitchExample team devops {  
+public class SwitchExample team salesforce {  
 public static void main(String[] args) {  
     //Declaring a variable for switch expression  
     int number=20;  
